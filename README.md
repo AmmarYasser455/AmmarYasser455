@@ -1,59 +1,88 @@
 # Ammar Yasser — GIS Developer & Cartography Specialist
 
-[![GitHub followers](https://img.shields.io/github/followers/AmmarYasser455?label=Follow&style=social)](https://github.com/AmmarYasser455)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ammar%20Yasser-blue?logo=linkedin)](https://www.linkedin.com/in/ammar-yasser522)
-[![Email](https://img.shields.io/badge/Email-ammaryasr522%40gmail.com-red?logo=gmail)](mailto:ammaryasr522@gmail.com)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?logo=buy-me-a-coffee)](https://buymeacoffee.com/iiammarii)
+<div align="center">
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarYasser455&layout=compact&theme=default)](https://github.com/AmmarYasser455)
-[![Profile Views](https://komarev.com/ghpvc/?username=AmmarYasser455)](https://github.com/AmmarYasser455)
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=AmmarYasser455.AmmarYasser455)](https://github.com/AmmarYasser455)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ammar%20Yasser-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-yasser522)
+[![Email](https://img.shields.io/badge/Email-ammaryasr522%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ammaryasr522@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/AmmarYasser455?label=Follow&style=for-the-badge&logo=github)](https://github.com/AmmarYasser455)
+[![Profile Views](https://komarev.com/ghpvc/?username=AmmarYasser455&style=for-the-badge&color=blueviolet)](https://github.com/AmmarYasser455)
 
----
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iiammarii)
 
-## About
-
-I am a GIS Developer and Cartography Specialist focused on building robust geospatial tools, automation pipelines, and data-driven maps for real-world applications. I enjoy turning spatial problems into actionable insights and visual stories through maps and analysis.
-
-- Degree: B.A. in Geography — Cartography & GIS, Cairo University (Graduated 2025)
-- Location: (Egypt-Giza)
+</div>
 
 ---
 
-## Core Skills
+## 👋 About Me
 
-- Languages: Python (primary), SQL
-- Geospatial: GeoPandas, Shapely, OSMnx, Fiona, Rasterio
-- Data & Analysis: Pandas, NumPy, scikit-learn
-- Mapping & Visualization: Leaflet, Folium, interactive web maps, cartographic design
-- GIS Workflows: spatial analysis, buffering, clustering, service-area (isochrone) analysis, reprojection, coordinate systems
-- Tools & Environment: Git, Linux (Manjaro KDE), QGIS (if used), automation/scripting
+I am a **GIS Developer** and **Cartography Specialist** focused on building robust geospatial tools, automation pipelines, and data-driven maps for real-world applications. I enjoy turning spatial problems into actionable insights and visual stories through maps and analysis.
 
-Most-used language: Python 🐍 (see "Most used languages" bar above)
+- 🎓 **Degree:** B.A. in Geography — Cartography & GIS, Cairo University (Graduated 2025)
+- 📍 **Location:** Giza, Egypt
+- 🐍 **Primary Language:** Python
 
 ---
 
-## How I Work
+## 🛠️ Core Skills
 
-- Emphasis on clean, reproducible workflows and well-documented code
-- Prefer automated, testable processes for ETL and spatial analyses
-- Build interactive map experiences for stakeholders, and static maps for reports/publications
-- Collaborate using Git/GitHub and maintain clear README + examples for public projects
+### Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
-
-## GitHub Stats
-
-![Ammar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmmarYasser455&show_icons=true&theme=default)
-
----
-
-## Get in Touch
-
-- LinkedIn: [Ammar Yasser](https://www.linkedin.com/in/ammar-yasser522)  
-- Email: ammaryasr522@gmail.com  
-- Support my work: [Buy Me a Coffee](https://buymeacoffee.com/iiammarii)
+### Geospatial Stack
+- **Libraries:** GeoPandas, Shapely, OSMnx, Fiona, Rasterio
+- **Analysis:** Pandas, NumPy, scikit-learn
+- **Visualization:** Leaflet, Folium, QGIS
+- **Workflows:** Spatial analysis, buffering, clustering, isochrone analysis, reprojection
 
 ---
 
-Thank you for visiting — follow me to see updates on my geospatial projects and tools. 
+## 💼 How I Work
+
+✅ Clean, reproducible workflows with well-documented code  
+✅ Automated, testable ETL and spatial analysis processes  
+✅ Interactive web maps for stakeholders, static maps for publications  
+✅ Collaborative development using Git/GitHub with clear documentation
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![Ammar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmmarYasser455&show_icons=true&theme=default&hide_border=true)
+
+</div>
+
+---
+
+## 🔤 Most Used Languages
+
+<div align="center">
+
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarYasser455&layout=compact&theme=default&hide_border=true)](https://github.com/AmmarYasser455)
+
+</div>
+
+---
+
+## 📬 Get in Touch
+
+I'm always open to discussing geospatial projects, collaborations, or opportunities!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ammar-yasser522)  
+- 📧 [ammaryasr522@gmail.com](mailto:ammaryasr522@gmail.com)  
+- ☕ [Support my work](https://buymeacoffee.com/iiammarii)
+
+---
+
+<div align="center">
+
+**Thank you for visiting!** 🌍  
+*Follow me to see updates on my geospatial projects and tools.*
+
+⭐ **Star my repositories if you find them useful!**
+
+</div>
