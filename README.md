@@ -40,18 +40,6 @@ I build geospatial tools and workflows that solve real problems and are ready fo
 
 ---
 
-## 🚀 Featured Projects
-
-Here are some repositories worth checking out (pin them!):
-
-- 🔹 **Project One** – Description of project one.
-- 🔹 **Project Two** – Description of project two.
-- 🔹 **Project Three** – Description of project three.
-
-*(Replace the titles & descriptions with your actual projects.)*
-
----
-
 ## 📫 Get in Touch
 
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/ammar-yasser522  
