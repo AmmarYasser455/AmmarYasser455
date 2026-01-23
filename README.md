@@ -27,18 +27,6 @@ I am a GIS Developer and Cartography Specialist focused on building robust geosp
 
 ---
 
-## Selected Projects
-
-(Consider pinning repositories to your profile and replace the placeholders below with links.)
-
-- Project Name — short 1-line description of what it does and the impact (link to repo)
-- Project Name — short 1-line description (link to repo)
-- Geospatial Pipeline — automated data ingestion & processing for [example use-case] (link)
-
-Pro tip: add screenshots, GIFs, and short demos for each project to increase engagement.
-
----
-
 ## How I Work
 
 - Emphasis on clean, reproducible workflows and well-documented code
