@@ -12,7 +12,7 @@
 I am a GIS Developer and Cartography Specialist focused on building robust geospatial tools, automation pipelines, and data-driven maps for real-world applications. I enjoy turning spatial problems into reproducible, production-ready solutions that help stakeholders make better decisions.
 
 - Degree: B.A. in Geography — Cartography & GIS, Cairo University (Graduated 2025)
-- Location: (optional — add your city/country if you want)
+- Location: (Egypt-Giza)
 
 ---
 
