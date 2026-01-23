@@ -1,51 +1,65 @@
-# 👋 Hi, I'm Ammar Yasser
+# Ammar Yasser — GIS Developer & Cartography Specialist
 
 [![GitHub followers](https://img.shields.io/github/followers/AmmarYasser455?label=Follow&style=social)](https://github.com/AmmarYasser455)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ammar%20Yasser-blue?logo=linkedin)](https://www.linkedin.com/in/ammar-yasser522)
-[![Gmail](https://img.shields.io/badge/Gmail-ammaryasr522%40gmail.com-red?logo=gmail)](mailto:ammaryasr522@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ammaryasr522%40gmail.com-red?logo=gmail)](mailto:ammaryasr522@gmail.com)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?logo=buy-me-a-coffee)](https://buymeacoffee.com/iiammarii)
 
 ---
 
-## 🧭 About Me
+## About
 
-I am a **GIS Developer & Cartography Specialist** with a passion for spatial analysis, automation, and Web GIS technologies.  
-I graduated in **2025 with a B.A. in Geography – Cartography & GIS** from **Cairo University**.
+I am a GIS Developer and Cartography Specialist focused on building robust geospatial tools, automation pipelines, and data-driven maps for real-world applications. I enjoy turning spatial problems into reproducible, production-ready solutions that help stakeholders make better decisions.
 
-I build geospatial tools and workflows that solve real problems and are ready for production use.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Tools
-- **Python**
-- GeoPandas · Shapely · OSMnx · scikit-learn
-- Pandas · NumPy
-
-### GIS & Mapping
-- Spatial analysis & modelling
-- Buffering, clustering, service coverage
-- Interactive mapping (Leaflet · Folium)
-
-### Environment
-- **Linux (Manjaro KDE)**
-- Git & GitHub
+- Degree: B.A. in Geography — Cartography & GIS, Cairo University (Graduated 2025)
+- Location: (optional — add your city/country if you want)
 
 ---
 
-## 📊 GitHub Stats
+## Core Skills
+
+- Languages: Python (primary), SQL
+- Geospatial: GeoPandas, Shapely, OSMnx, Fiona, Rasterio
+- Data & Analysis: Pandas, NumPy, scikit-learn
+- Mapping & Visualization: Leaflet, Folium, interactive web maps, cartographic design
+- GIS Workflows: spatial analysis, buffering, clustering, service-area (isochrone) analysis, reprojection, coordinate systems
+- Tools & Environment: Git, Linux (Manjaro KDE), QGIS (if used), automation/scripting
+
+---
+
+## Selected Projects
+
+(Consider pinning repositories to your profile and replace the placeholders below with links.)
+
+- Project Name — short 1-line description of what it does and the impact (link to repo)
+- Project Name — short 1-line description (link to repo)
+- Geospatial Pipeline — automated data ingestion & processing for [example use-case] (link)
+
+Pro tip: add screenshots, GIFs, and short demos for each project to increase engagement.
+
+---
+
+## How I Work
+
+- Emphasis on clean, reproducible workflows and well-documented code
+- Prefer automated, testable processes for ETL and spatial analyses
+- Build interactive map experiences for stakeholders, and static maps for reports/publications
+- Collaborate using Git/GitHub and maintain clear README + examples for public projects
+
+---
+
+## GitHub Stats
 
 ![Ammar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmmarYasser455&show_icons=true&theme=default)
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/ammar-yasser522  
-- 📧 **Email:** ammaryasr522@gmail.com  
-- ☕ **Support my work:** https://buymeacoffee.com/iiammarii
+- LinkedIn: [Ammar Yasser](https://www.linkedin.com/in/ammar-yasser522)  
+- Email: ammaryasr522@gmail.com  
+- Support my work: [Buy Me a Coffee](https://buymeacoffee.com/iiammarii)
 
 ---
 
-⭐ Thanks for visiting — follow me to watch my geospatial journey!
+Thank you for visiting — follow me to see updates on my geospatial projects and tools.  
