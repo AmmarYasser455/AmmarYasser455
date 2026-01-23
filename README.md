@@ -5,11 +5,15 @@
 [![Email](https://img.shields.io/badge/Email-ammaryasr522%40gmail.com-red?logo=gmail)](mailto:ammaryasr522@gmail.com)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?logo=buy-me-a-coffee)](https://buymeacoffee.com/iiammarii)
 
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarYasser455&layout=compact&theme=default)](https://github.com/AmmarYasser455)
+[![Profile Views](https://komarev.com/ghpvc/?username=AmmarYasser455)](https://github.com/AmmarYasser455)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=AmmarYasser455.AmmarYasser455)](https://github.com/AmmarYasser455)
+
 ---
 
 ## About
 
-I am a GIS Developer and Cartography Specialist focused on building robust geospatial tools, automation pipelines, and data-driven maps for real-world applications. I enjoy turning spatial problems into reproducible, production-ready solutions that help stakeholders make better decisions.
+I am a GIS Developer and Cartography Specialist focused on building robust geospatial tools, automation pipelines, and data-driven maps for real-world applications. I enjoy turning spatial problems into actionable insights and visual stories through maps and analysis.
 
 - Degree: B.A. in Geography — Cartography & GIS, Cairo University (Graduated 2025)
 - Location: (Egypt-Giza)
@@ -24,6 +28,8 @@ I am a GIS Developer and Cartography Specialist focused on building robust geosp
 - Mapping & Visualization: Leaflet, Folium, interactive web maps, cartographic design
 - GIS Workflows: spatial analysis, buffering, clustering, service-area (isochrone) analysis, reprojection, coordinate systems
 - Tools & Environment: Git, Linux (Manjaro KDE), QGIS (if used), automation/scripting
+
+Most-used language: Python 🐍 (see "Most used languages" bar above)
 
 ---
 
@@ -50,4 +56,4 @@ I am a GIS Developer and Cartography Specialist focused on building robust geosp
 
 ---
 
-Thank you for visiting — follow me to see updates on my geospatial projects and tools.  
+Thank you for visiting — follow me to see updates on my geospatial projects and tools. 
