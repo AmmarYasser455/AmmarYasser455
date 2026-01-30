@@ -46,13 +46,12 @@ I am a **GIS Developer** and **Cartography Specialist** turning spatial data int
 
 <div align="center">
 
-| **Github Stats** | **Top Languages** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=AmmarYasser455&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarYasser455&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" /> |
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AmmarYasser455&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Wakatime stats" />
+<a href="https://github.com/AmmarYasser455">
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=AmmarYasser455&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
+<a href="https://github.com/AmmarYasser455">
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarYasser455&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
 
 </div>
 
