@@ -29,31 +29,48 @@ I am a **GIS Developer** and **Cartography Specialist** turning spatial data int
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,vscode,linux,git,github,postgres,docker,html,css" />
-  </a>
-</div>
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,vscode,linux,git,github,postgres,docker,html,css" />
+    </a>
+  </div>
 
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Geospatial** | GeoPandas, Shapely, OSMnx, Fiona, Rasterio, QGIS, Leaflet, Folium |
-| **Analysis** | Pandas, NumPy, Scikit-learn, SQL |
-| **Workflows** | ETL Pipelines, Spatial Clustering, Isochrone Analysis, Network Analysis |
+<table align="center">
+  <tr>
+    <th align="left">Category</th>
+    <th align="left">Technologies</th>
+  </tr>
+  <tr>
+    <td align="left"><b>Geospatial</b></td>
+    <td align="left">GeoPandas, Shapely, OSMnx, Fiona, Rasterio, QGIS, Leaflet, Folium</td>
+  </tr>
+  <tr>
+    <td align="left"><b>Analysis</b></td>
+    <td align="left">Pandas, NumPy, Scikit-learn, SQL</td>
+  </tr>
+  <tr>
+    <td align="left"><b>Workflows</b></td>
+    <td align="left">ETL Pipelines, Spatial Clustering, Isochrone Analysis, Network Analysis</td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
+<!-- Stats hidden temporarily as services (github-readme-stats) are currently experiencing downtime (503) -->
+<!--
 ### 📊 GitHub Analytics
 
 <div align="center">
-
 <a href="https://github.com/AmmarYasser455">
   <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=AmmarYasser455&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 <a href="https://github.com/AmmarYasser455">
   <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarYasser455&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
-
 </div>
+-->
 
 ---
 
