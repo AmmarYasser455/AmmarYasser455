@@ -7,7 +7,7 @@ markers <!-- START_CONTRIBS --> and <!-- END_CONTRIBS -->.
 import os
 import sys
 import requests
-from datetime import datetime
+from datetime import datetime, timezone
 from dateutil import parser as dateparser
 
 GITHUB_API = "https://api.github.com"
@@ -87,7 +87,7 @@ def build_block(events):
     lines = []
     lines.append("## Recent activity")
     lines.append("")
-    lines.append(f"Updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}")
+    lines.append(f"Updated: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}")
     lines.append("")
     if not events:
         lines.append("_No recent public activity found._")
