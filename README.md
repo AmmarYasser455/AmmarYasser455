@@ -74,19 +74,8 @@ I am a **GIS Developer** and **Cartography Specialist** turning spatial data int
 
 ---
 
-<div align="center">
-
-### ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/AmmarYasser455/road-ml-pipeline/pull/3) in AmmarYasser455/road-ml-pipeline
-2. ❗️ Closed issue [#2](https://github.com/AmmarYasser455/road-ml-pipeline/issues/2) in AmmarYasser455/road-ml-pipeline
-3. 🔓 Reopened issue [#2](https://github.com/AmmarYasser455/road-ml-pipeline/issues/2) in AmmarYasser455/road-ml-pipeline
-4. 🗣 Commented on [#2](https://github.com/AmmarYasser455/road-ml-pipeline/issues/2) in AmmarYasser455/road-ml-pipeline
-5. ❌ Closed PR [#1](https://github.com/AmmarYasser455/road-ml-pipeline/pull/1) in AmmarYasser455/road-ml-pipeline
-<!--END_SECTION:activity-->
-
-</div>
+<!-- START_CONTRIBS -->
+<!-- END_CONTRIBS -->
 
 <div align="center">
 
