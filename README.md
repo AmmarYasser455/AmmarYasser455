@@ -79,11 +79,11 @@ I am a **GIS Developer** and **Cartography Specialist** turning spatial data int
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/AmmarYasser455/road-ml-pipeline/pull/3) in AmmarYasser455/road-ml-pipeline
-2. ❗️ Closed issue [#2](https://github.com/AmmarYasser455/road-ml-pipeline/issues/2) in AmmarYasser455/road-ml-pipeline
-3. 🔓 Reopened issue [#2](https://github.com/AmmarYasser455/road-ml-pipeline/issues/2) in AmmarYasser455/road-ml-pipeline
-4. 🗣 Commented on [#2](https://github.com/AmmarYasser455/road-ml-pipeline/issues/2) in AmmarYasser455/road-ml-pipeline
-5. ❌ Closed PR [#1](https://github.com/AmmarYasser455/road-ml-pipeline/pull/1) in AmmarYasser455/road-ml-pipeline
+1. 💪 Opened PR [#296](https://github.com/scikit-mobility/scikit-mobility/pull/296) in [scikit-mobility/scikit-mobility](https://github.com/scikit-mobility/scikit-mobility)
+2. 💪 Opened PR [#3730](https://github.com/geopandas/geopandas/pull/3730) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
+3. 🎉 Merged PR [#994](https://github.com/geoinquiets/rafagas/pull/994) in [geoinquiets/rafagas](https://github.com/geoinquiets/rafagas)
+4. 🗣 Commented on [#994](https://github.com/geoinquiets/rafagas/pull/994#issuecomment-3836197086) in [geoinquiets/rafagas](https://github.com/geoinquiets/rafagas)
+5. ❌ Closed PR [#1](https://github.com/AmmarYasser455/AmmarYasser455/pull/1) in [AmmarYasser455/AmmarYasser455](https://github.com/AmmarYasser455/AmmarYasser455)
 <!--END_SECTION:activity-->
 
 </div>
