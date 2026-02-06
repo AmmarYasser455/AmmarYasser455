@@ -58,8 +58,6 @@ I am a **GIS Developer** and **Cartography Specialist** turning spatial data int
 
 ---
 
-<!-- Stats hidden temporarily as services (github-readme-stats) are currently experiencing downtime (503) -->
-<!--
 ### 📊 GitHub Analytics
 
 <div align="center">
@@ -70,7 +68,6 @@ I am a **GIS Developer** and **Cartography Specialist** turning spatial data int
   <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarYasser455&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 </div>
--->
 
 ---
 
