@@ -11,10 +11,11 @@ jobs:
     name: Update this repo's README with recent activity
 
     steps:
-       - uses: actions/checkout@v3
-
-       # Replace the unavailable action with an alternative that updates profile README
-       - uses: teoxoy/profile-readme-stats@latest
+      - uses: actions/checkout@v3
+      
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-        USERNAME: AmmarYasser455
-        COMMIT_MSG: 'Updated README with latest stats'
+          COMMIT_MSG: 'Updated README with recent activity'
+          MAX_LINES: 5
