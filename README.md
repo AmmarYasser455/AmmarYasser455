@@ -58,19 +58,13 @@ I am a **GIS Developer** and **Cartography Specialist** turning spatial data int
 
 ---
 
-<!-- Stats hidden temporarily as services (github-readme-stats) are currently experiencing downtime (503) from Vercel -->
-<!--
 ### 📊 GitHub Analytics
 
 <div align="center">
-<a href="https://github.com/AmmarYasser455">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=AmmarYasser455&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/AmmarYasser455">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarYasser455&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmmarYasser455&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmmarYasser455&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmmarYasser455&theme=tokyonight" />
 </div>
--->
 
 ---
 
