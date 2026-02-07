@@ -46,7 +46,14 @@ def format_event(event):
     repo_link = f"[{repo}](https://github.com/{repo})"
 
     if etype == "PushEvent":
-        count = payload.get("size", 0)
+        commits = payload.get("commits", [])
+        count = (
+            len(commits)
+            if commits
+            else payload.get("distinct_size", payload.get("size", 0))
+        )
+        if count == 0:
+            return None
         word = "commit" if count == 1 else "commits"
         branch = (payload.get("ref") or "").replace("refs/heads/", "")
         return f"⬆️ Pushed {count} {word} to `{branch}` in {repo_link}"
