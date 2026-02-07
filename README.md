@@ -73,11 +73,11 @@ I am a **GIS Developer** and **Cartography Specialist** turning spatial data int
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3731](https://github.com/geopandas/geopandas/pull/3731#issuecomment-3862040741) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
-2. 💪 Opened PR [#3731](https://github.com/geopandas/geopandas/pull/3731) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
-3. 🗣 Commented on [#3730](https://github.com/geopandas/geopandas/pull/3730#issuecomment-3860044502) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
-4. 🗣 Commented on [#3730](https://github.com/geopandas/geopandas/pull/3730#issuecomment-3859359451) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
-5. 💪 Opened PR [#296](https://github.com/scikit-mobility/scikit-mobility/pull/296) in [scikit-mobility/scikit-mobility](https://github.com/scikit-mobility/scikit-mobility)
+1. ⬆️ Pushed 0 commits to `main` in [AmmarYasser455/AmmarYasser455](https://github.com/AmmarYasser455/AmmarYasser455)
+2. ⬆️ Pushed 0 commits to `main` in [AmmarYasser455/ovc](https://github.com/AmmarYasser455/ovc)
+3. ⭐ Starred [AmmarYasser455/ovc-arcgis-pro](https://github.com/AmmarYasser455/ovc-arcgis-pro)
+4. ⬆️ Pushed 0 commits to `feature/greedy-coloring` in [AmmarYasser455/geopandas](https://github.com/AmmarYasser455/geopandas)
+5. 🗣 Commented on [#3731](https://github.com/geopandas/geopandas/pull/3731#issuecomment-3862040741) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
 <!--END_SECTION:activity-->
 
 </div>
