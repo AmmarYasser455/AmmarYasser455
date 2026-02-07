@@ -2,23 +2,31 @@ name: Update README
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  update-activity:
     runs-on: ubuntu-latest
     name: Update this repo's README with recent activity
 
     steps:
-      - uses: actions/checkout@v3
-      
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: actions/checkout@v4
+
+      - name: Fetch and update activity
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: 'Updated README with recent activity'
-          MAX_LINES: 5
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: AmmarYasser455
+          MAX_LINES: '5'
+        run: python3 .github/scripts/update_activity.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet && echo "No changes to commit" || \
+            (git commit -m "chore: update README with recent activity" && git push)
