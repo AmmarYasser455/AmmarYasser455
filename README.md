@@ -14,6 +14,13 @@
 
 </div>
 
+### 
+### Tech Stack
+- Languages: Python, JavaScript, SQL
+- - GIS Tools: ArcGIS, QGIS, PostGIS, OpenStreetMap
+  - - Web: React, Node.js, Leaflet, Mapbox
+    - 
+
 ---
 
 ### 🗺️ About Me
