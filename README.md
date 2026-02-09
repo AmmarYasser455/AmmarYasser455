@@ -80,11 +80,11 @@ I am a **GIS Developer** and **Cartography Specialist** turning spatial data int
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [MohamedHassan450/Egyption-Real-Estate-Market-Dashboard](https://github.com/MohamedHassan450/Egyption-Real-Estate-Market-Dashboard)
-2. ⭐ Starred [AmmarYasser455/ovc-arcgis-pro](https://github.com/AmmarYasser455/ovc-arcgis-pro)
-3. 🗣 Commented on [#3731](https://github.com/geopandas/geopandas/pull/3731#issuecomment-3862040741) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
-4. 🌿 Created branch `main` in [AmmarYasser455/ovc-arcgis-pro](https://github.com/AmmarYasser455/ovc-arcgis-pro)
-5. 💪 Opened PR [#3731](https://github.com/geopandas/geopandas/pull/3731) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
+1. 💪 Opened PR [#3](https://github.com/AmmarYasser455/ovc/pull/3) in [AmmarYasser455/ovc](https://github.com/AmmarYasser455/ovc)
+2. 🌿 Created branch `AmmarYasser455-patch-1` in [AmmarYasser455/ovc](https://github.com/AmmarYasser455/ovc)
+3. 🗑️ Deleted branch `AmmarYasser455-patch-1` in [AmmarYasser455/AmmarYasser455](https://github.com/AmmarYasser455/AmmarYasser455)
+4. 💪 Opened PR [#2](https://github.com/AmmarYasser455/AmmarYasser455/pull/2) in [AmmarYasser455/AmmarYasser455](https://github.com/AmmarYasser455/AmmarYasser455)
+5. 🌿 Created branch `AmmarYasser455-patch-1` in [AmmarYasser455/AmmarYasser455](https://github.com/AmmarYasser455/AmmarYasser455)
 <!--END_SECTION:activity-->
 
 </div>
