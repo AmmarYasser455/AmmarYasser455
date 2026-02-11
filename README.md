@@ -70,11 +70,11 @@ I transform complex spatial data into actionable insights. Based in **Giza, Egyp
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Released [v3.0.0](https://github.com/AmmarYasser455/ovc-arcgis-pro/releases/tag/v3.0.0) in [AmmarYasser455/ovc-arcgis-pro](https://github.com/AmmarYasser455/ovc-arcgis-pro)
-2. 🚀 Released [v3.0.0](https://github.com/AmmarYasser455/ovc/releases/tag/v3.0.0) in [AmmarYasser455/ovc](https://github.com/AmmarYasser455/ovc)
-3. 🌿 Created branch `feature/pair-extraordinaire-achievement` in [AmmarYasser455/AmmarYasser455](https://github.com/AmmarYasser455/AmmarYasser455)
-4. ⭐ Starred [AmmarYasser455/ovc](https://github.com/AmmarYasser455/ovc)
-5. 💪 Opened PR [#3](https://github.com/AmmarYasser455/AmmarYasser455/pull/3) in [AmmarYasser455/AmmarYasser455](https://github.com/AmmarYasser455/AmmarYasser455)
+1. ⭐ Starred [AmmarYasser455/geoqa](https://github.com/AmmarYasser455/geoqa)
+2. 🌿 Created branch `main` in [AmmarYasser455/geoqa](https://github.com/AmmarYasser455/geoqa)
+3. 🚀 Released [v3.0.0](https://github.com/AmmarYasser455/ovc-arcgis-pro/releases/tag/v3.0.0) in [AmmarYasser455/ovc-arcgis-pro](https://github.com/AmmarYasser455/ovc-arcgis-pro)
+4. 🚀 Released [v3.0.0](https://github.com/AmmarYasser455/ovc/releases/tag/v3.0.0) in [AmmarYasser455/ovc](https://github.com/AmmarYasser455/ovc)
+5. 🌿 Created branch `feature/pair-extraordinaire-achievement` in [AmmarYasser455/AmmarYasser455](https://github.com/AmmarYasser455/AmmarYasser455)
 <!--END_SECTION:activity-->
 
 </div>
