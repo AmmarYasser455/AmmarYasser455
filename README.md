@@ -70,11 +70,11 @@ I transform complex spatial data into actionable insights. Based in **Giza, Egyp
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling)
-2. ⭐ Starred [AmmarYasser455/geoqa](https://github.com/AmmarYasser455/geoqa)
-3. 🌿 Created branch `main` in [AmmarYasser455/geoqa](https://github.com/AmmarYasser455/geoqa)
-4. 🚀 Released [v3.0.0](https://github.com/AmmarYasser455/ovc-arcgis-pro/releases/tag/v3.0.0) in [AmmarYasser455/ovc-arcgis-pro](https://github.com/AmmarYasser455/ovc-arcgis-pro)
-5. 🚀 Released [v3.0.0](https://github.com/AmmarYasser455/ovc/releases/tag/v3.0.0) in [AmmarYasser455/ovc](https://github.com/AmmarYasser455/ovc)
+1. 🚀 Released [v0.1.0](https://github.com/AmmarYasser455/geoqa/releases/tag/v0.1.0) in [AmmarYasser455/geoqa](https://github.com/AmmarYasser455/geoqa)
+2. ⭐ Starred [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling)
+3. ⭐ Starred [AmmarYasser455/geoqa](https://github.com/AmmarYasser455/geoqa)
+4. 🌿 Created branch `main` in [AmmarYasser455/geoqa](https://github.com/AmmarYasser455/geoqa)
+5. 🚀 Released [v3.0.0](https://github.com/AmmarYasser455/ovc-arcgis-pro/releases/tag/v3.0.0) in [AmmarYasser455/ovc-arcgis-pro](https://github.com/AmmarYasser455/ovc-arcgis-pro)
 <!--END_SECTION:activity-->
 
 </div>
