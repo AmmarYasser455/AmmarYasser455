@@ -70,11 +70,11 @@ I transform complex spatial data into actionable insights. Based in **Giza, Egyp
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Released [v3.1.1](https://github.com/AmmarYasser455/ovc-arcgis-pro/releases/tag/v3.1.1) in [AmmarYasser455/ovc-arcgis-pro](https://github.com/AmmarYasser455/ovc-arcgis-pro)
-2. 🚀 Released [v0.1.0](https://github.com/AmmarYasser455/geoqa/releases/tag/v0.1.0) in [AmmarYasser455/geoqa](https://github.com/AmmarYasser455/geoqa)
-3. ⭐ Starred [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling)
-4. ⭐ Starred [AmmarYasser455/geoqa](https://github.com/AmmarYasser455/geoqa)
-5. 🌿 Created branch `main` in [AmmarYasser455/geoqa](https://github.com/AmmarYasser455/geoqa)
+1. 🚀 Released [v3.1.1](https://github.com/AmmarYasser455/ovc/releases/tag/v3.1.1) in [AmmarYasser455/ovc](https://github.com/AmmarYasser455/ovc)
+2. 🗑️ Deleted branch `fix/audit-critical-fixes-20260212` in [AmmarYasser455/geoqa](https://github.com/AmmarYasser455/geoqa)
+3. 🗑️ Deleted branch `fix/audit-critical-fixes-20260212` in [AmmarYasser455/ovc](https://github.com/AmmarYasser455/ovc)
+4. 🗑️ Deleted tag `v0.1.1` in [AmmarYasser455/geoqa](https://github.com/AmmarYasser455/geoqa)
+5. 💪 Opened PR [#5](https://github.com/AmmarYasser455/ovc/pull/5) in [AmmarYasser455/ovc](https://github.com/AmmarYasser455/ovc)
 <!--END_SECTION:activity-->
 
 </div>
