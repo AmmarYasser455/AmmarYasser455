@@ -70,11 +70,11 @@ I transform complex spatial data into actionable insights. Based in **Giza, Egyp
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [AmmarYasser455/ovc](https://github.com/AmmarYasser455/ovc)
-2. ⭐ Starred [AmmarYasser455/GeoFix](https://github.com/AmmarYasser455/GeoFix)
-3. ⭐ Starred [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
-4. 💪 Opened PR [#1](https://github.com/sarah-gamal-eldin/cloud-native-gateway/pull/1) in [sarah-gamal-eldin/cloud-native-gateway](https://github.com/sarah-gamal-eldin/cloud-native-gateway)
-5. 🌿 Created branch `fix/render-line-polygon-geometries` in [AmmarYasser455/cloud-native-gateway](https://github.com/AmmarYasser455/cloud-native-gateway)
+1. 🗣 Commented on [#3723](https://github.com/geopandas/geopandas/pull/3723#issuecomment-3916178687) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
+2. 🗣 Commented on [#3723](https://github.com/geopandas/geopandas/pull/3723#issuecomment-3915377481) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
+3. ⭐ Starred [AmmarYasser455/ovc](https://github.com/AmmarYasser455/ovc)
+4. ⭐ Starred [AmmarYasser455/GeoFix](https://github.com/AmmarYasser455/GeoFix)
+5. ⭐ Starred [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
 <!--END_SECTION:activity-->
 
 </div>
