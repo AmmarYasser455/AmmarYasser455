@@ -74,7 +74,7 @@ I transform complex spatial data into actionable insights. Based in **Giza, Egyp
 2. 🗣 Commented on [#3723](https://github.com/geopandas/geopandas/pull/3723#issuecomment-3916178687) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
 3. 🗣 Commented on [#3723](https://github.com/geopandas/geopandas/pull/3723#issuecomment-3915377481) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
 4. ⭐ Starred [AmmarYasser455/ovc](https://github.com/AmmarYasser455/ovc)
-5. ⭐ Starred [AmmarYasser455/GeoFix](https://github.com/AmmarYasser455/GeoFix)
+5. ⭐ Starred [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
 <!--END_SECTION:activity-->
 
 </div>
