@@ -74,7 +74,6 @@ I transform complex spatial data into actionable insights. Based in **Giza, Egyp
 2. 🗣 Commented on [#1](https://github.com/sarah-gamal-eldin/cloud-native-gateway/pull/1#issuecomment-3939578719) in [sarah-gamal-eldin/cloud-native-gateway](https://github.com/sarah-gamal-eldin/cloud-native-gateway)
 3. 🗣 Commented on [#3723](https://github.com/geopandas/geopandas/pull/3723#issuecomment-3916178687) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
 4. 🗣 Commented on [#3723](https://github.com/geopandas/geopandas/pull/3723#issuecomment-3915377481) in [geopandas/geopandas](https://github.com/geopandas/geopandas)
-5. ⭐ Starred [AmmarYasser455/ovc](https://github.com/AmmarYasser455/ovc)
 <!--END_SECTION:activity-->
 
 </div>
