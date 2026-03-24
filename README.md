@@ -71,7 +71,6 @@ I transform complex spatial data into actionable insights. Based in **Giza, Egyp
 
 <!--START_SECTION:activity-->
 1. 🌿 Created branch `main` in [AmmarYasser455/AmmarYasser455.github.io](https://github.com/AmmarYasser455/AmmarYasser455.github.io)
-2. 🗣 Commented on [#1](https://github.com/sarah-gamal-eldin/cloud-native-gateway/pull/1#issuecomment-3939578719) in [sarah-gamal-eldin/cloud-native-gateway](https://github.com/sarah-gamal-eldin/cloud-native-gateway)
 <!--END_SECTION:activity-->
 
 </div>
