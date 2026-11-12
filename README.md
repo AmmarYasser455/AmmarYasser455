@@ -1,78 +1,104 @@
-# Ammar Yasser
+## Hi, I'm Ammar Yasser 👋
 
-### GIS Developer | Open Source Contributor | Cartography Specialist
+**GIS Developer · Open-source contributor · Cartography** — Giza, Egypt
 
-<div align="center">
+[![Portfolio](https://img.shields.io/badge/Portfolio-ammaryasser455.github.io-0d9488?style=flat-square)](https://ammaryasser455.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ammar--yasser522-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-yasser522)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ammaryasr522@gmail.com)
+[![Reddit](https://img.shields.io/badge/Reddit-Standard--Procedure20-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/Standard-Procedure20/)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iiammarii)
+[![Followers](https://img.shields.io/github/followers/AmmarYasser455?style=flat-square&label=Followers)](https://github.com/AmmarYasser455?tab=followers)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-yasser522)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ammaryasr522@gmail.com)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Standard-Procedure20/)
-[![Buymeacoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iiammarii)
+I transform complex spatial data into actionable insights. I build **geospatial data-quality tools**, automate **OpenStreetMap** workflows, and do **spatial analysis** in Python. I maintain **geoqa**, **ovc** and **GeoNest**, and contribute fixes and docs to the Python GIS ecosystem.
 
-</div>
-<br/> 
-
----
-
-### 🗺️ About Me
-
-I transform complex spatial data into actionable insights. Based in **Giza, Egypt**, I specialize in building robust geospatial pipelines, automating OpenStreetMap workflows, and conducting advanced spatial analysis.
-
-- 🔭 **Working on:** High-precision automated map editing tools.
-- 🌱 **Learning:** Advanced ML models for satellite imagery feature extraction.
-- 💬 **Ask me about:** Python for GIS, PostGIS optimization, and Cartography.
+- 🔭 **Working on:** high-precision automated map editing and spatial QC tools
+- 🌱 **Learning:** ML models for satellite-imagery feature extraction
+- 💬 **Ask me about:** Python for GIS, PostGIS optimization, cartography
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🧰 Projects
 
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,vscode,linux,git,github,postgres,docker,html,css" />
-    </a>
-  </div>
+**Spatial data quality**
 
-<table align="center">
-  <tr>
-    <th align="left">Category</th>
-    <th align="left">Technologies</th>
-  </tr>
-  <tr>
-    <td align="left"><b>Geospatial</b></td>
-    <td align="left">GeoPandas, Shapely, OSMnx, Fiona, Rasterio, QGIS, Leaflet, Folium</td>
-  </tr>
-  <tr>
-    <td align="left"><b>Analysis</b></td>
-    <td align="left">Pandas, NumPy, Scikit-learn, SQL</td>
-  </tr>
-  <tr>
-    <td align="left"><b>Workflows</b></td>
-    <td align="left">ETL Pipelines, Spatial Clustering, Isochrone Analysis, Network Analysis</td>
-  </tr>
-</table>
+- [**geoqa**](https://github.com/AmmarYasser455/geoqa) — profile any geodataset in one line: quality scoring and interactive reports
+  [![PyPI](https://img.shields.io/pypi/v/geoqa?style=flat-square&label=PyPI)](https://pypi.org/project/geoqa/)
+  [![Stars](https://img.shields.io/github/stars/AmmarYasser455/geoqa?style=flat-square&label=%E2%98%85)](https://github.com/AmmarYasser455/geoqa/stargazers)
+- [**ovc**](https://github.com/AmmarYasser455/ovc) — Overlap Violation Checker: overlaps, containment issues and geometry conflicts in building and road data
+  [![Stars](https://img.shields.io/github/stars/AmmarYasser455/ovc?style=flat-square&label=%E2%98%85)](https://github.com/AmmarYasser455/ovc/stargazers)
+- [**ovc-arcgis-pro**](https://github.com/AmmarYasser455/ovc-arcgis-pro) — OVC as a native ArcGIS Pro Python toolbox for spatial QC
+  [![Stars](https://img.shields.io/github/stars/AmmarYasser455/ovc-arcgis-pro?style=flat-square&label=%E2%98%85)](https://github.com/AmmarYasser455/ovc-arcgis-pro/stargazers)
 
-</div>
+**Mapping and analysis**
+
+- [**GeoNest**](https://github.com/AmmarYasser455/GeoNest) — lightweight, Pythonic mapping library on ipyleaflet for Jupyter
+  [![PyPI](https://img.shields.io/pypi/v/geonest?style=flat-square&label=PyPI)](https://pypi.org/project/geonest/)
+  [![Stars](https://img.shields.io/github/stars/AmmarYasser455/GeoNest?style=flat-square&label=%E2%98%85)](https://github.com/AmmarYasser455/GeoNest/stargazers)
+- [**Cairo Hex Grid Analysis**](https://github.com/AmmarYasser455/Cairo-Hex-Grid-Analysis-using-Python) — hexagonal-grid analysis of urban amenities from OpenStreetMap · [live demo](https://cairo-hex-analysis-by-ammaryasser.netlify.app/)
+  [![Stars](https://img.shields.io/github/stars/AmmarYasser455/Cairo-Hex-Grid-Analysis-using-Python?style=flat-square&label=%E2%98%85)](https://github.com/AmmarYasser455/Cairo-Hex-Grid-Analysis-using-Python/stargazers)
+
+**Web**
+
+- [**Portfolio**](https://ammaryasser455.github.io/) — my GIS project atlas, built with React, TypeScript and Vite
 
 ---
 
-### 📊 GitHub Analytics
+## 🤝 Open-source contributions
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmmarYasser455&theme=tokyonight" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmmarYasser455&theme=tokyonight" height="180" />
-</div>
+<!--START_SECTION:contributions-->
+**4 merged** · **5 in review** · **7 projects** <sub>(updated 12 Nov 2026)</sub>
+
+#### ✅ Merged
+
+| Project | Pull request | Merged |
+|---|---|---|
+| [geopandas/geopandas](https://github.com/geopandas/geopandas) | [#3723](https://github.com/geopandas/geopandas/pull/3723) DOC: clarify sindex.query behavior with predicates | Apr 2026 |
+| [thinkingmachines/geowrangler](https://github.com/thinkingmachines/geowrangler) | [#267](https://github.com/thinkingmachines/geowrangler/pull/267) fix: FastBingTileGridGenerator CRS conversion and polygon holes handling | Feb 2026 |
+| [geoinquiets/rafagas](https://github.com/geoinquiets/rafagas) | [#994](https://github.com/geoinquiets/rafagas/pull/994) ci: modernize link-checker workflow | Feb 2026 |
+| [osm-search/Nominatim](https://github.com/osm-search/Nominatim) | [#3955](https://github.com/osm-search/Nominatim/pull/3955) docs: fix multiple typos in documentation and source code | Feb 2026 |
+
+#### 🔍 In review
+
+| Project | Pull request | Opened |
+|---|---|---|
+| [thinkingmachines/geowrangler](https://github.com/thinkingmachines/geowrangler) | [#272](https://github.com/thinkingmachines/geowrangler/pull/272) fix: clarify error in raster_to_dataframe.generate_mask when labels_column is missing | Nov 2026 |
+| [scikit-mobility/scikit-mobility](https://github.com/scikit-mobility/scikit-mobility) | [#296](https://github.com/scikit-mobility/scikit-mobility/pull/296) Fix shapely >=2.1.0 compatibility (#293) | Feb 2026 |
+| [shapely/shapely](https://github.com/shapely/shapely) | [#2414](https://github.com/shapely/shapely/pull/2414) doc: add 'See Also' sections to geometry class docstrings | Jan 2026 |
+| [nnamera/road-ml-pipeline](https://github.com/nnamera/road-ml-pipeline) | [#2](https://github.com/nnamera/road-ml-pipeline/pull/2) docs: remove invalid binary links and update installation instructions | Jan 2026 |
+| [nnamera/road-ml-pipeline](https://github.com/nnamera/road-ml-pipeline) | [#1](https://github.com/nnamera/road-ml-pipeline/pull/1) fix(tests): resolve widespread failures in pipeline, training, and model modules | Jan 2026 |
+<!--END_SECTION:contributions-->
 
 ---
 
-<div align="center">
-
-### ⚡ Recent Activity
+## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 🌿 Created branch `main` in [AmmarYasser455/AmmarYasser455.github.io](https://github.com/AmmarYasser455/AmmarYasser455.github.io)
+1. 💪 Opened PR [#3](https://github.com/AmmarYasser455/geoqa/pull/3) in [AmmarYasser455/geoqa](https://github.com/AmmarYasser455/geoqa)
+2. 💪 Opened PR [#2](https://github.com/AmmarYasser455/geoqa/pull/2) in [AmmarYasser455/geoqa](https://github.com/AmmarYasser455/geoqa)
+3. 💪 Opened PR [#272](https://github.com/thinkingmachines/geowrangler/pull/272) in [thinkingmachines/geowrangler](https://github.com/thinkingmachines/geowrangler)
+4. 💪 Opened PR [#7](https://github.com/AmmarYasser455/ovc/pull/7) in [AmmarYasser455/ovc](https://github.com/AmmarYasser455/ovc)
+5. 💪 Opened PR [#6](https://github.com/AmmarYasser455/ovc/pull/6) in [AmmarYasser455/ovc](https://github.com/AmmarYasser455/ovc)
 <!--END_SECTION:activity-->
 
-</div>
+---
 
+## 🛠️ Tech stack
 
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,postgres,git,github,docker,linux,vscode,html,css" alt="Tech stack icons" /></a>
+</p>
+
+| Area | Tools |
+|---|---|
+| **Geospatial** | GeoPandas, Shapely, Rasterio, Fiona, OSMnx, QGIS, ArcGIS Pro, Leaflet, Folium |
+| **Analysis** | Pandas, NumPy, scikit-learn, SQL, PostGIS |
+| **Workflows** | ETL pipelines, spatial clustering, isochrone and network analysis, spatial QC |
+
+---
+
+## 📊 GitHub stats
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmmarYasser455&theme=tokyonight" height="170" alt="Profile summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmmarYasser455&theme=tokyonight" height="170" alt="Most used languages" />
+</p>

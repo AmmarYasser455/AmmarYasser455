@@ -11,17 +11,22 @@ permissions:
 jobs:
   update-activity:
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
+    name: Update README with contributions and recent activity
 
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch and update activity
+      - name: Update open-source contributions and recent activity
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: AmmarYasser455
-          MAX_LINES: '5'
-        run: python3 .github/scripts/update_activity.py
+          MAX_LINES: '6'
+          MAX_ROWS: '8'
+          # Non-GIS side projects kept off the profile.
+          EXCLUDE_REPOS: 'AllTheMods/ATM-10,Setiawan007/Gmail-Maker-BOTV2,AmmarYasser455/ATM-10,AmmarYasser455/Gmail-Maker-BOTV2'
+        run: |
+          python3 .github/scripts/update_contributions.py
+          python3 .github/scripts/update_activity.py
 
       - name: Commit and push if changed
         run: |
@@ -29,4 +34,4 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
           git diff --staged --quiet && echo "No changes to commit" || \
-            (git commit -m "chore: update README with recent activity" && git push)
+            (git commit -m "chore: update README with contributions and recent activity" && git push)

@@ -15,10 +15,9 @@ SUPPORTED_EVENTS = {
     "IssueCommentEvent",
     "CreateEvent",
     "ReleaseEvent",
-    "ForkEvent",
-    "WatchEvent",
-    "DeleteEvent",
 }
+# Repositories left out of the feed (comma-separated owner/name), e.g. non-GIS side projects.
+EXCLUDE = {r.strip().lower() for r in os.environ.get("EXCLUDE_REPOS", "").split(",") if r.strip()}
 
 
 def fetch_events():
@@ -90,7 +89,7 @@ def format_event(event):
         if ref_type == "repository":
             return f"🆕 Created repository {repo_link}"
         if ref_type == "branch":
-            return f"🌿 Created branch `{ref}` in {repo_link}"
+            return None
         if ref_type == "tag":
             return f"🏷️ Created tag `{ref}` in {repo_link}"
         return None
@@ -124,6 +123,8 @@ def main():
 
     for event in events:
         if event["type"] not in SUPPORTED_EVENTS:
+            continue
+        if event["repo"]["name"].lower() in EXCLUDE or event["repo"]["name"] == f"{USERNAME}/{USERNAME}":
             continue
 
         line = format_event(event)
