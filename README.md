@@ -46,7 +46,7 @@ I transform complex spatial data into actionable insights. I build **geospatial 
 ## 🤝 Open-source contributions
 
 <!--START_SECTION:contributions-->
-**4 merged** · **5 in review** · **7 projects** <sub>(updated 12 Nov 2026)</sub>
+**4 merged** · **5 in review** · **7 projects** <sub>(updated 13 Nov 2026)</sub>
 
 #### ✅ Merged
 
@@ -73,11 +73,12 @@ I transform complex spatial data into actionable insights. I build **geospatial 
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/AmmarYasser455/geoqa/pull/3) in [AmmarYasser455/geoqa](https://github.com/AmmarYasser455/geoqa)
-2. 💪 Opened PR [#2](https://github.com/AmmarYasser455/geoqa/pull/2) in [AmmarYasser455/geoqa](https://github.com/AmmarYasser455/geoqa)
-3. 💪 Opened PR [#272](https://github.com/thinkingmachines/geowrangler/pull/272) in [thinkingmachines/geowrangler](https://github.com/thinkingmachines/geowrangler)
-4. 💪 Opened PR [#7](https://github.com/AmmarYasser455/ovc/pull/7) in [AmmarYasser455/ovc](https://github.com/AmmarYasser455/ovc)
-5. 💪 Opened PR [#6](https://github.com/AmmarYasser455/ovc/pull/6) in [AmmarYasser455/ovc](https://github.com/AmmarYasser455/ovc)
+1. 💪 Opened PR [#1](https://github.com/AmmarYasser455/ovc-arcgis-pro/pull/1) in [AmmarYasser455/ovc-arcgis-pro](https://github.com/AmmarYasser455/ovc-arcgis-pro)
+2. 💪 Opened PR [#3](https://github.com/AmmarYasser455/geoqa/pull/3) in [AmmarYasser455/geoqa](https://github.com/AmmarYasser455/geoqa)
+3. 💪 Opened PR [#2](https://github.com/AmmarYasser455/geoqa/pull/2) in [AmmarYasser455/geoqa](https://github.com/AmmarYasser455/geoqa)
+4. 💪 Opened PR [#272](https://github.com/thinkingmachines/geowrangler/pull/272) in [thinkingmachines/geowrangler](https://github.com/thinkingmachines/geowrangler)
+5. 💪 Opened PR [#7](https://github.com/AmmarYasser455/ovc/pull/7) in [AmmarYasser455/ovc](https://github.com/AmmarYasser455/ovc)
+6. 💪 Opened PR [#6](https://github.com/AmmarYasser455/ovc/pull/6) in [AmmarYasser455/ovc](https://github.com/AmmarYasser455/ovc)
 <!--END_SECTION:activity-->
 
 ---
