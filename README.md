@@ -46,12 +46,13 @@ I transform complex spatial data into actionable insights. I build **geospatial 
 ## 🤝 Open-source contributions
 
 <!--START_SECTION:contributions-->
-**4 merged** · **5 in review** · **7 projects** <sub>(updated 13 Nov 2026)</sub>
+**5 merged** · **4 in review** · **7 projects** <sub>(updated 13 Nov 2026)</sub>
 
 #### ✅ Merged
 
 | Project | Pull request | Merged |
 |---|---|---|
+| [thinkingmachines/geowrangler](https://github.com/thinkingmachines/geowrangler) | [#272](https://github.com/thinkingmachines/geowrangler/pull/272) fix: clarify error in raster_to_dataframe.generate_mask when labels_column is missing | Nov 2026 |
 | [geopandas/geopandas](https://github.com/geopandas/geopandas) | [#3723](https://github.com/geopandas/geopandas/pull/3723) DOC: clarify sindex.query behavior with predicates | Apr 2026 |
 | [thinkingmachines/geowrangler](https://github.com/thinkingmachines/geowrangler) | [#267](https://github.com/thinkingmachines/geowrangler/pull/267) fix: FastBingTileGridGenerator CRS conversion and polygon holes handling | Feb 2026 |
 | [geoinquiets/rafagas](https://github.com/geoinquiets/rafagas) | [#994](https://github.com/geoinquiets/rafagas/pull/994) ci: modernize link-checker workflow | Feb 2026 |
@@ -61,7 +62,6 @@ I transform complex spatial data into actionable insights. I build **geospatial 
 
 | Project | Pull request | Opened |
 |---|---|---|
-| [thinkingmachines/geowrangler](https://github.com/thinkingmachines/geowrangler) | [#272](https://github.com/thinkingmachines/geowrangler/pull/272) fix: clarify error in raster_to_dataframe.generate_mask when labels_column is missing | Nov 2026 |
 | [scikit-mobility/scikit-mobility](https://github.com/scikit-mobility/scikit-mobility) | [#296](https://github.com/scikit-mobility/scikit-mobility/pull/296) Fix shapely >=2.1.0 compatibility (#293) | Feb 2026 |
 | [shapely/shapely](https://github.com/shapely/shapely) | [#2414](https://github.com/shapely/shapely/pull/2414) doc: add 'See Also' sections to geometry class docstrings | Jan 2026 |
 | [nnamera/road-ml-pipeline](https://github.com/nnamera/road-ml-pipeline) | [#2](https://github.com/nnamera/road-ml-pipeline/pull/2) docs: remove invalid binary links and update installation instructions | Jan 2026 |
@@ -73,12 +73,12 @@ I transform complex spatial data into actionable insights. I build **geospatial 
 ## ⚡ Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/AmmarYasser455/ovc-arcgis-pro/pull/1) in [AmmarYasser455/ovc-arcgis-pro](https://github.com/AmmarYasser455/ovc-arcgis-pro)
-2. 💪 Opened PR [#3](https://github.com/AmmarYasser455/geoqa/pull/3) in [AmmarYasser455/geoqa](https://github.com/AmmarYasser455/geoqa)
-3. 💪 Opened PR [#2](https://github.com/AmmarYasser455/geoqa/pull/2) in [AmmarYasser455/geoqa](https://github.com/AmmarYasser455/geoqa)
-4. 💪 Opened PR [#272](https://github.com/thinkingmachines/geowrangler/pull/272) in [thinkingmachines/geowrangler](https://github.com/thinkingmachines/geowrangler)
-5. 💪 Opened PR [#7](https://github.com/AmmarYasser455/ovc/pull/7) in [AmmarYasser455/ovc](https://github.com/AmmarYasser455/ovc)
-6. 💪 Opened PR [#6](https://github.com/AmmarYasser455/ovc/pull/6) in [AmmarYasser455/ovc](https://github.com/AmmarYasser455/ovc)
+1. 💪 Opened PR [#2](https://github.com/AmmarYasser455/crs-sniffer/pull/2) in [AmmarYasser455/crs-sniffer](https://github.com/AmmarYasser455/crs-sniffer)
+2. 💪 Opened PR [#1](https://github.com/AmmarYasser455/crs-sniffer/pull/1) in [AmmarYasser455/crs-sniffer](https://github.com/AmmarYasser455/crs-sniffer)
+3. 💪 Opened PR [#4](https://github.com/AmmarYasser455/ovc-arcgis-pro/pull/4) in [AmmarYasser455/ovc-arcgis-pro](https://github.com/AmmarYasser455/ovc-arcgis-pro)
+4. 💪 Opened PR [#3](https://github.com/AmmarYasser455/GeoNest/pull/3) in [AmmarYasser455/GeoNest](https://github.com/AmmarYasser455/GeoNest)
+5. 💪 Opened PR [#2](https://github.com/AmmarYasser455/GeoNest/pull/2) in [AmmarYasser455/GeoNest](https://github.com/AmmarYasser455/GeoNest)
+6. 💪 Opened PR [#5](https://github.com/AmmarYasser455/geoqa/pull/5) in [AmmarYasser455/geoqa](https://github.com/AmmarYasser455/geoqa)
 <!--END_SECTION:activity-->
 
 ---
