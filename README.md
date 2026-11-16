@@ -46,7 +46,7 @@ I transform complex spatial data into actionable insights. I build **geospatial 
 ## 🤝 Open-source contributions
 
 <!--START_SECTION:contributions-->
-**5 merged** · **4 in review** · **7 projects** <sub>(updated 15 Nov 2026)</sub>
+**5 merged** · **4 in review** · **7 projects** <sub>(updated 16 Nov 2026)</sub>
 
 #### ✅ Merged
 
