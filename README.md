@@ -1,4 +1,4 @@
-## Hi, I'm Ammar Yasser 👋
+## Hi, I'm Ammar Yasser
 
 **GIS Developer · Open-source contributor · Cartography** — Giza, Egypt
 
@@ -11,13 +11,13 @@
 
 I transform complex spatial data into actionable insights. I build **geospatial data-quality tools**, automate **OpenStreetMap** workflows, and do **spatial analysis** in Python. I maintain the **OpenTerra** tools (geoqa, ovc, GeoNest and more), and contribute fixes and docs to the Python GIS ecosystem.
 
-- 🔭 **Working on:** high-precision automated map editing and spatial QC tools
-- 🌱 **Learning:** ML models for satellite-imagery feature extraction
-- 💬 **Ask me about:** Python for GIS, PostGIS optimization, cartography
+- **Working on:** high-precision automated map editing and spatial QC tools
+- **Learning:** ML models for satellite-imagery feature extraction
+- **Ask me about:** Python for GIS, PostGIS optimization, cartography
 
 ---
 
-## 🌍 OpenTerra
+## OpenTerra
 
 <p align="center">
   <picture>
@@ -68,12 +68,12 @@ One job each, with a command-line tool and tests. Install any of them with `pip 
 
 ---
 
-## 🤝 Open-source contributions
+## Open-source contributions
 
 <!--START_SECTION:contributions-->
 **5 merged** · **4 in review** · **7 projects** <sub>(updated 20 Nov 2026)</sub>
 
-#### ✅ Merged
+#### Merged
 
 | Project | Pull request | Merged |
 |---|---|---|
@@ -83,7 +83,7 @@ One job each, with a command-line tool and tests. Install any of them with `pip 
 | [geoinquiets/rafagas](https://github.com/geoinquiets/rafagas) | [#994](https://github.com/geoinquiets/rafagas/pull/994) ci: modernize link-checker workflow | Feb 2026 |
 | [osm-search/Nominatim](https://github.com/osm-search/Nominatim) | [#3955](https://github.com/osm-search/Nominatim/pull/3955) docs: fix multiple typos in documentation and source code | Feb 2026 |
 
-#### 🔍 In review
+#### In review
 
 | Project | Pull request | Opened |
 |---|---|---|
@@ -95,20 +95,20 @@ One job each, with a command-line tool and tests. Install any of them with `pip 
 
 ---
 
-## ⚡ Recent activity
+## Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#494](https://github.com/qgis/QGIS-Plugins-Website/issues/494) in [qgis/QGIS-Plugins-Website](https://github.com/qgis/QGIS-Plugins-Website)
-2. 💪 Opened PR [#7](https://github.com/AmmarYasser455/Cairo-Hex-Grid-Analysis-using-Python/pull/7) in [AmmarYasser455/Cairo-Hex-Grid-Analysis-using-Python](https://github.com/AmmarYasser455/Cairo-Hex-Grid-Analysis-using-Python)
-3. 💪 Opened PR [#20](https://github.com/AmmarYasser455/crs-sniffer/pull/20) in [AmmarYasser455/crs-sniffer](https://github.com/AmmarYasser455/crs-sniffer)
-4. 💪 Opened PR [#3](https://github.com/AmmarYasser455/geohash-kit/pull/3) in [AmmarYasser455/geohash-kit](https://github.com/AmmarYasser455/geohash-kit)
-5. 💪 Opened PR [#8](https://github.com/AmmarYasser455/GeoNest/pull/8) in [AmmarYasser455/GeoNest](https://github.com/AmmarYasser455/GeoNest)
-6. 💪 Opened PR [#6](https://github.com/AmmarYasser455/tile-math/pull/6) in [AmmarYasser455/tile-math](https://github.com/AmmarYasser455/tile-math)
+1. Opened issue [#494](https://github.com/qgis/QGIS-Plugins-Website/issues/494) in [qgis/QGIS-Plugins-Website](https://github.com/qgis/QGIS-Plugins-Website)
+2. Opened PR [#7](https://github.com/AmmarYasser455/Cairo-Hex-Grid-Analysis-using-Python/pull/7) in [AmmarYasser455/Cairo-Hex-Grid-Analysis-using-Python](https://github.com/AmmarYasser455/Cairo-Hex-Grid-Analysis-using-Python)
+3. Opened PR [#20](https://github.com/AmmarYasser455/crs-sniffer/pull/20) in [AmmarYasser455/crs-sniffer](https://github.com/AmmarYasser455/crs-sniffer)
+4. Opened PR [#3](https://github.com/AmmarYasser455/geohash-kit/pull/3) in [AmmarYasser455/geohash-kit](https://github.com/AmmarYasser455/geohash-kit)
+5. Opened PR [#8](https://github.com/AmmarYasser455/GeoNest/pull/8) in [AmmarYasser455/GeoNest](https://github.com/AmmarYasser455/GeoNest)
+6. Opened PR [#6](https://github.com/AmmarYasser455/tile-math/pull/6) in [AmmarYasser455/tile-math](https://github.com/AmmarYasser455/tile-math)
 <!--END_SECTION:activity-->
 
 ---
 
-## 🛠️ Tech stack
+## Tech stack
 
 <p>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,postgres,git,github,docker,linux,vscode,html,css" alt="Tech stack icons" /></a>
@@ -122,9 +122,12 @@ One job each, with a command-line tool and tests. Install any of them with `pip 
 
 ---
 
-## 📊 GitHub stats
+## GitHub stats
 
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmmarYasser455&theme=tokyonight" height="170" alt="Profile summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmmarYasser455&theme=tokyonight" height="170" alt="Most used languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
+    <img src="assets/languages.svg" height="156" alt="Languages by commit in public repositories over the last 12 months" />
+  </picture>
 </p>

@@ -84,9 +84,9 @@ def main():
         "",
     ]
     if merged:
-        parts += ["#### ✅ Merged", "", table(merged, "Merged"), ""]
+        parts += ["#### Merged", "", table(merged, "Merged"), ""]
     if review:
-        parts += ["#### 🔍 In review", "", table(review, "Opened"), ""]
+        parts += ["#### In review", "", table(review, "Opened"), ""]
     section = "\n".join(parts).rstrip()
 
     with open("README.md", encoding="utf-8") as f:

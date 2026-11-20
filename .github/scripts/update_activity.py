@@ -55,7 +55,7 @@ def format_event(event):
             return None
         word = "commit" if count == 1 else "commits"
         branch = (payload.get("ref") or "").replace("refs/heads/", "")
-        return f"⬆️ Pushed {count} {word} to `{branch}` in {repo_link}"
+        return f"Pushed {count} {word} to `{branch}` in {repo_link}"
 
     if etype == "PullRequestEvent":
         action = payload.get("action", "")
@@ -63,54 +63,52 @@ def format_event(event):
         num = pr.get("number", "")
         pr_link = f"[#{num}](https://github.com/{repo}/pull/{num})"
         if action == "opened":
-            return f"💪 Opened PR {pr_link} in {repo_link}"
+            return f"Opened PR {pr_link} in {repo_link}"
         if action == "closed" and pr.get("merged"):
-            return f"🎉 Merged PR {pr_link} in {repo_link}"
+            return f"Merged PR {pr_link} in {repo_link}"
         if action == "closed":
-            return f"❌ Closed PR {pr_link} in {repo_link}"
+            return f"Closed PR {pr_link} in {repo_link}"
         return None
 
     if etype == "IssuesEvent":
         action = payload.get("action", "")
         num = payload.get("issue", {}).get("number", "")
-        emojis = {"opened": "❗", "closed": "🔒", "reopened": "🔓"}
-        emoji = emojis.get(action, "ℹ️")
         issue_link = f"[#{num}](https://github.com/{repo}/issues/{num})"
-        return f"{emoji} {action.capitalize()} issue {issue_link} in {repo_link}"
+        return f"{action.capitalize()} issue {issue_link} in {repo_link}"
 
     if etype == "IssueCommentEvent":
         num = payload.get("issue", {}).get("number", "")
         url = payload.get("comment", {}).get("html_url", "")
-        return f"🗣 Commented on [#{num}]({url}) in {repo_link}"
+        return f"Commented on [#{num}]({url}) in {repo_link}"
 
     if etype == "CreateEvent":
         ref_type = payload.get("ref_type", "")
         ref = payload.get("ref", "")
         if ref_type == "repository":
-            return f"🆕 Created repository {repo_link}"
+            return f"Created repository {repo_link}"
         if ref_type == "branch":
             return None
         if ref_type == "tag":
-            return f"🏷️ Created tag `{ref}` in {repo_link}"
+            return f"Created tag `{ref}` in {repo_link}"
         return None
 
     if etype == "ReleaseEvent":
         release = payload.get("release", {})
         tag = release.get("tag_name", "")
         url = release.get("html_url", "")
-        return f"🚀 Released [{tag}]({url}) in {repo_link}"
+        return f"Released [{tag}]({url}) in {repo_link}"
 
     if etype == "ForkEvent":
         forkee = payload.get("forkee", {}).get("full_name", "")
-        return f"🍴 Forked {repo_link} to [{forkee}](https://github.com/{forkee})"
+        return f"Forked {repo_link} to [{forkee}](https://github.com/{forkee})"
 
     if etype == "WatchEvent":
-        return f"⭐ Starred {repo_link}"
+        return f"Starred {repo_link}"
 
     if etype == "DeleteEvent":
         ref_type = payload.get("ref_type", "")
         ref = payload.get("ref", "")
-        return f"🗑️ Deleted {ref_type} `{ref}` in {repo_link}"
+        return f"Deleted {ref_type} `{ref}` in {repo_link}"
 
     return None
 
