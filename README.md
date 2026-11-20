@@ -9,7 +9,7 @@
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iiammarii)
 [![Followers](https://img.shields.io/github/followers/AmmarYasser455?style=flat-square&label=Followers)](https://github.com/AmmarYasser455?tab=followers)
 
-I transform complex spatial data into actionable insights. I build **geospatial data-quality tools**, automate **OpenStreetMap** workflows, and do **spatial analysis** in Python. I maintain **geoqa**, **ovc** and **GeoNest**, and contribute fixes and docs to the Python GIS ecosystem.
+I transform complex spatial data into actionable insights. I build **geospatial data-quality tools**, automate **OpenStreetMap** workflows, and do **spatial analysis** in Python. I maintain the **OpenTerra** tools (geoqa, ovc, GeoNest and more), and contribute fixes and docs to the Python GIS ecosystem.
 
 - 🔭 **Working on:** high-precision automated map editing and spatial QC tools
 - 🌱 **Learning:** ML models for satellite-imagery feature extraction
@@ -17,29 +17,52 @@ I transform complex spatial data into actionable insights. I build **geospatial 
 
 ---
 
-## 🧰 Projects
+## 🌍 OpenTerra
 
-**Spatial data quality**
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/openterra/openterra-lockup-dark.svg">
+    <img src="assets/openterra/openterra-lockup.svg" alt="OpenTerra: open geospatial tools" width="460">
+  </picture>
+</p>
 
-- [**geoqa**](https://github.com/AmmarYasser455/geoqa) — profile any geodataset in one line: quality scoring and interactive reports
-  [![PyPI](https://img.shields.io/pypi/v/geoqa?style=flat-square&label=PyPI)](https://pypi.org/project/geoqa/)
-  [![Stars](https://img.shields.io/github/stars/AmmarYasser455/geoqa?style=flat-square&label=%E2%98%85)](https://github.com/AmmarYasser455/geoqa/stargazers)
-- [**ovc**](https://github.com/AmmarYasser455/ovc) — Overlap Violation Checker: overlaps, containment issues and geometry conflicts in building and road data
-  [![Stars](https://img.shields.io/github/stars/AmmarYasser455/ovc?style=flat-square&label=%E2%98%85)](https://github.com/AmmarYasser455/ovc/stargazers)
-- [**ovc-arcgis-pro**](https://github.com/AmmarYasser455/ovc-arcgis-pro) — OVC as a native ArcGIS Pro Python toolbox for spatial QC
-  [![Stars](https://img.shields.io/github/stars/AmmarYasser455/ovc-arcgis-pro?style=flat-square&label=%E2%98%85)](https://github.com/AmmarYasser455/ovc-arcgis-pro/stargazers)
+**OpenTerra** is my family of open geospatial tools: check the quality of GIS data, map it, and handle everyday coordinate and file chores.
 
-**Mapping and analysis**
+### Spatial data quality
 
-- [**GeoNest**](https://github.com/AmmarYasser455/GeoNest) — lightweight, Pythonic mapping library on ipyleaflet for Jupyter
-  [![PyPI](https://img.shields.io/pypi/v/geonest?style=flat-square&label=PyPI)](https://pypi.org/project/geonest/)
-  [![Stars](https://img.shields.io/github/stars/AmmarYasser455/GeoNest?style=flat-square&label=%E2%98%85)](https://github.com/AmmarYasser455/GeoNest/stargazers)
-- [**Cairo Hex Grid Analysis**](https://github.com/AmmarYasser455/Cairo-Hex-Grid-Analysis-using-Python) — hexagonal-grid analysis of urban amenities from OpenStreetMap · [live demo](https://cairo-hex-analysis-by-ammaryasser.netlify.app/)
-  [![Stars](https://img.shields.io/github/stars/AmmarYasser455/Cairo-Hex-Grid-Analysis-using-Python?style=flat-square&label=%E2%98%85)](https://github.com/AmmarYasser455/Cairo-Hex-Grid-Analysis-using-Python/stargazers)
+Start with **geoqa** to profile a layer, then let **ovc** find the conflicts. [Try both in 5 minutes →](https://github.com/AmmarYasser455/ovc/tree/main/examples/geoqa-to-ovc)
 
-**Web**
+| Project | What it does | Use it from |
+|---|---|---|
+| [**geoqa**](https://github.com/AmmarYasser455/geoqa) | Profile any geodataset in one line: validity, CRS, duplicates, completeness, a quality score and an HTML report | Python, CLI · [![PyPI](https://img.shields.io/pypi/v/geoqa?style=flat-square&label=PyPI)](https://pypi.org/project/geoqa/) |
+| [**ovc**](https://github.com/AmmarYasser455/ovc) | Find overlapping buildings, buildings on roads and boundary problems; writes a GeoPackage, metrics CSV and web map | Python, CLI |
+| [**ovc-arcgis-pro**](https://github.com/AmmarYasser455/ovc-arcgis-pro) | Five OVC checks as an ArcGIS Pro toolbox: building overlaps, building–road conflicts, road dangles, disconnected roads, self-intersections | ArcGIS Pro |
+| [**horus-qc**](https://github.com/AmmarYasser455/horus-qc) | Building and road QC for grid-based digitising: classified overlaps, roof-to-base shift, keyboard review queue | QGIS 3 & 4 plugin |
 
-- [**Portfolio**](https://ammaryasser455.github.io/) — my GIS project atlas, built with React, TypeScript and Vite
+### Mapping and analysis
+
+| Project | What it does |
+|---|---|
+| [**GeoNest**](https://github.com/AmmarYasser455/GeoNest) | Lightweight mapping in Jupyter on ipyleaflet: basemaps, vector and raster layers in a few lines |
+| [**Cairo Hex Grid Analysis**](https://github.com/AmmarYasser455/Cairo-Hex-Grid-Analysis-using-Python) | Case study: how amenities spread across Cairo, on a hexagonal grid built from OpenStreetMap · [live demo](https://cairo-hex-analysis-by-ammaryasser.netlify.app/) |
+
+### Small utilities
+
+One job each, with a command-line tool. Install any of them with `pip install git+https://github.com/AmmarYasser455/<name>`.
+
+| Tool | What it does |
+|---|---|
+| [**crs-sniffer**](https://github.com/AmmarYasser455/crs-sniffer) | Guess the most likely EPSG code of coordinates with no CRS |
+| [**utm-zone-finder**](https://github.com/AmmarYasser455/utm-zone-finder) | Find the right UTM zone and EPSG code for a point, bounding box or GeoJSON file |
+| [**dms-convert**](https://github.com/AmmarYasser455/dms-convert) | Convert coordinates between decimal degrees, DMS and DDM |
+| [**tile-math**](https://github.com/AmmarYasser455/tile-math) | Convert between lat/lon, XYZ tiles and quadkeys; list the tiles covering a bounding box |
+| [**geohash-kit**](https://github.com/AmmarYasser455/geohash-kit) | Encode and decode geohashes, find neighbours, cover a polygon |
+| [**csv-to-geojson**](https://github.com/AmmarYasser455/csv-to-geojson) | Turn a CSV with coordinates into GeoJSON, detecting the lat/lon columns |
+| [**gpx-to-geojson**](https://github.com/AmmarYasser455/gpx-to-geojson) | Convert GPX tracks, routes and waypoints to GeoJSON with time, elevation and distance |
+
+### Web
+
+- [**Portfolio**](https://ammaryasser455.github.io/): my GIS project atlas, built with React, TypeScript and Vite
 
 ---
 
