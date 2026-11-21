@@ -71,7 +71,7 @@ One job each, with a command-line tool and tests. Install any of them with `pip 
 ## Open-source contributions
 
 <!--START_SECTION:contributions-->
-**5 merged** · **4 in review** · **7 projects** <sub>(updated 20 Nov 2026)</sub>
+**5 merged** · **4 in review** · **7 projects** <sub>(updated 21 Nov 2026)</sub>
 
 #### Merged
 
@@ -98,12 +98,12 @@ One job each, with a command-line tool and tests. Install any of them with `pip 
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. Opened issue [#494](https://github.com/qgis/QGIS-Plugins-Website/issues/494) in [qgis/QGIS-Plugins-Website](https://github.com/qgis/QGIS-Plugins-Website)
-2. Opened PR [#7](https://github.com/AmmarYasser455/Cairo-Hex-Grid-Analysis-using-Python/pull/7) in [AmmarYasser455/Cairo-Hex-Grid-Analysis-using-Python](https://github.com/AmmarYasser455/Cairo-Hex-Grid-Analysis-using-Python)
-3. Opened PR [#20](https://github.com/AmmarYasser455/crs-sniffer/pull/20) in [AmmarYasser455/crs-sniffer](https://github.com/AmmarYasser455/crs-sniffer)
-4. Opened PR [#3](https://github.com/AmmarYasser455/geohash-kit/pull/3) in [AmmarYasser455/geohash-kit](https://github.com/AmmarYasser455/geohash-kit)
-5. Opened PR [#8](https://github.com/AmmarYasser455/GeoNest/pull/8) in [AmmarYasser455/GeoNest](https://github.com/AmmarYasser455/GeoNest)
-6. Opened PR [#6](https://github.com/AmmarYasser455/tile-math/pull/6) in [AmmarYasser455/tile-math](https://github.com/AmmarYasser455/tile-math)
+1. Opened PR [#7](https://github.com/AmmarYasser455/csv-to-geojson/pull/7) in [AmmarYasser455/csv-to-geojson](https://github.com/AmmarYasser455/csv-to-geojson)
+2. Opened PR [#10](https://github.com/AmmarYasser455/utm-zone-finder/pull/10) in [AmmarYasser455/utm-zone-finder](https://github.com/AmmarYasser455/utm-zone-finder)
+3. Opened PR [#5](https://github.com/AmmarYasser455/geohash-kit/pull/5) in [AmmarYasser455/geohash-kit](https://github.com/AmmarYasser455/geohash-kit)
+4. Opened PR [#8](https://github.com/AmmarYasser455/Cairo-Hex-Grid-Analysis-using-Python/pull/8) in [AmmarYasser455/Cairo-Hex-Grid-Analysis-using-Python](https://github.com/AmmarYasser455/Cairo-Hex-Grid-Analysis-using-Python)
+5. Opened PR [#21](https://github.com/AmmarYasser455/crs-sniffer/pull/21) in [AmmarYasser455/crs-sniffer](https://github.com/AmmarYasser455/crs-sniffer)
+6. Opened PR [#7](https://github.com/AmmarYasser455/tile-math/pull/7) in [AmmarYasser455/tile-math](https://github.com/AmmarYasser455/tile-math)
 <!--END_SECTION:activity-->
 
 ---
