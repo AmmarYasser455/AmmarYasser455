@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="460" height="156" viewBox="0 0 460 156" role="img" aria-label="Languages by commit">
 <text x="22" y="34" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="600" fill="#F3EEE4">Languages by commit</text>
-<text x="22" y="54" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#A9A39A">Public repositories, last 12 months · 324 commits</text>
+<text x="22" y="54" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#A9A39A">Public repositories, last 12 months · 326 commits</text>
 <clipPath id="r"><rect x="22" y="70" width="416" height="12" rx="6"/></clipPath>
 <g clip-path="url(#r)"><rect x="22" y="70" width="416" height="12" fill="#2A2C31"/>
-<rect x="22.00" y="70" width="229.04" height="12" fill="#F2552C"/>
-<rect x="250.54" y="70" width="187.96" height="12" fill="#8B6CF6"/>
+<rect x="22.00" y="70" width="230.19" height="12" fill="#F2552C"/>
+<rect x="251.69" y="70" width="186.81" height="12" fill="#8B6CF6"/>
 </g>
 <rect x="22" y="96" width="11" height="11" rx="3" fill="#F2552C"/>
 <text x="42" y="106" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#F3EEE4">Python</text>
-<text x="346" y="106" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" text-anchor="end" fill="#F3EEE4">54.9%</text>
-<text x="438" y="106" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" text-anchor="end" fill="#A9A39A">178 commits</text>
+<text x="346" y="106" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" text-anchor="end" fill="#F3EEE4">55.2%</text>
+<text x="438" y="106" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" text-anchor="end" fill="#A9A39A">180 commits</text>
 <rect x="22" y="122" width="11" height="11" rx="3" fill="#8B6CF6"/>
 <text x="42" y="132" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#F3EEE4">Jupyter Notebook</text>
-<text x="346" y="132" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" text-anchor="end" fill="#F3EEE4">45.1%</text>
+<text x="346" y="132" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" text-anchor="end" fill="#F3EEE4">44.8%</text>
 <text x="438" y="132" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" text-anchor="end" fill="#A9A39A">146 commits</text>
 </svg>
