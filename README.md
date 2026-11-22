@@ -72,7 +72,7 @@ One job each, with a command-line tool and tests. Install any of them with `pip 
 ## Open-source contributions
 
 <!--START_SECTION:contributions-->
-**5 merged** · **4 in review** · **7 projects** <sub>(updated 21 Nov 2026)</sub>
+**5 merged** · **4 in review** · **7 projects** <sub>(updated 22 Nov 2026)</sub>
 
 #### Merged
 
@@ -99,12 +99,12 @@ One job each, with a command-line tool and tests. Install any of them with `pip 
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. Released [v3.3.0](https://github.com/AmmarYasser455/ovc/releases/tag/v3.3.0) in [AmmarYasser455/ovc](https://github.com/AmmarYasser455/ovc)
-2. Opened PR [#17](https://github.com/AmmarYasser455/ovc/pull/17) in [AmmarYasser455/ovc](https://github.com/AmmarYasser455/ovc)
-3. Opened PR [#4](https://github.com/AmmarYasser455/hexgrid-maker/pull/4) in [AmmarYasser455/hexgrid-maker](https://github.com/AmmarYasser455/hexgrid-maker)
-4. Opened PR [#10](https://github.com/AmmarYasser455/dms-convert/pull/10) in [AmmarYasser455/dms-convert](https://github.com/AmmarYasser455/dms-convert)
-5. Opened PR [#9](https://github.com/AmmarYasser455/csv-to-geojson/pull/9) in [AmmarYasser455/csv-to-geojson](https://github.com/AmmarYasser455/csv-to-geojson)
-6. Opened PR [#12](https://github.com/AmmarYasser455/utm-zone-finder/pull/12) in [AmmarYasser455/utm-zone-finder](https://github.com/AmmarYasser455/utm-zone-finder)
+1. Released [v4.0.1](https://github.com/AmmarYasser455/ovc/releases/tag/v4.0.1) in [AmmarYasser455/ovc](https://github.com/AmmarYasser455/ovc)
+2. Opened PR [#24](https://github.com/AmmarYasser455/ovc/pull/24) in [AmmarYasser455/ovc](https://github.com/AmmarYasser455/ovc)
+3. Released [v4.0.0](https://github.com/AmmarYasser455/ovc/releases/tag/v4.0.0) in [AmmarYasser455/ovc](https://github.com/AmmarYasser455/ovc)
+4. Opened PR [#23](https://github.com/AmmarYasser455/ovc/pull/23) in [AmmarYasser455/ovc](https://github.com/AmmarYasser455/ovc)
+5. Released [v3.7.0](https://github.com/AmmarYasser455/ovc/releases/tag/v3.7.0) in [AmmarYasser455/ovc](https://github.com/AmmarYasser455/ovc)
+6. Opened PR [#22](https://github.com/AmmarYasser455/ovc/pull/22) in [AmmarYasser455/ovc](https://github.com/AmmarYasser455/ovc)
 <!--END_SECTION:activity-->
 
 ---
