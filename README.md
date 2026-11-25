@@ -72,7 +72,7 @@ One job each, with a command-line tool and tests. Install any of them with `pip 
 ## Open-source contributions
 
 <!--START_SECTION:contributions-->
-**5 merged** · **4 in review** · **7 projects** <sub>(updated 24 Nov 2026)</sub>
+**5 merged** · **4 in review** · **7 projects** <sub>(updated 25 Nov 2026)</sub>
 
 #### Merged
 
